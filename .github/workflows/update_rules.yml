@@ -36,3 +36,4 @@ jobs:
           commit_message: "Auto-update: Sync all rule providers"
           file_pattern: "*.yaml"  # 关键修改：匹配所有 yaml 后缀的文件
           push_options: '--force'
+          branch: main
