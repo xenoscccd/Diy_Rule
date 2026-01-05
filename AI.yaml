@@ -58,6 +58,7 @@ payload:
 - DOMAIN-SUFFIX,bingapis.com
 - DOMAIN-SUFFIX,bingstatic.com
 - DOMAIN-SUFFIX,bngpiglbalmenaabohcooocpnljgfemj
+- DOMAIN-SUFFIX,c.gle
 - DOMAIN-SUFFIX,cache.pack.google.com
 - DOMAIN-SUFFIX,cbsnews.com
 - DOMAIN-SUFFIX,cdn.designerapp.osi.office.net
@@ -227,5 +228,6 @@ payload:
 - IP-CIDR,74.125.28.188/32
 - PROCESS-NAME,Claude
 - PROCESS-NAME,Claude Helper
+- PROCESS-NAME,Google Drive
 - PROCESS-NAME,LM Studio
 - PROCESS-NAME,grok
