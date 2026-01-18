@@ -44,6 +44,7 @@ payload:
 - DOMAIN-SUFFIX,alt7-mtalk.google.com
 - DOMAIN-SUFFIX,alt8-mtalk.google.com
 - DOMAIN-SUFFIX,anthropic.com
+- 'DOMAIN-SUFFIX,antigravity-unleash.goog:'
 - DOMAIN-SUFFIX,apis.google.com
 - DOMAIN-SUFFIX,app-measurement.com
 - DOMAIN-SUFFIX,app-measurement.net
