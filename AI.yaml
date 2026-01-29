@@ -10,6 +10,7 @@ payload:
 - DOMAIN,alt8-mtalk.google.com
 - DOMAIN,makersuite.google.com
 - DOMAIN,mtalk.google.com
+- DOMAIN-KEYWORD,antigravity
 - DOMAIN-KEYWORD,bing
 - DOMAIN-KEYWORD,chatgpt
 - DOMAIN-KEYWORD,claude
@@ -44,7 +45,8 @@ payload:
 - DOMAIN-SUFFIX,alt7-mtalk.google.com
 - DOMAIN-SUFFIX,alt8-mtalk.google.com
 - DOMAIN-SUFFIX,anthropic.com
-- 'DOMAIN-SUFFIX,antigravity-unleash.goog:'
+- DOMAIN-SUFFIX,antigravity-unleash.goog
+- DOMAIN-SUFFIX,antigravity.google
 - DOMAIN-SUFFIX,apis.google.com
 - DOMAIN-SUFFIX,app-measurement.com
 - DOMAIN-SUFFIX,app-measurement.net
@@ -228,6 +230,10 @@ payload:
 - IP-CIDR,74.125.23.188/32
 - IP-CIDR,74.125.24.188/32
 - IP-CIDR,74.125.28.188/32
+- PROCESS-NAME,Antigravity Helper
+- PROCESS-NAME,Antigravity Helper (GPU)
+- PROCESS-NAME,Antigravity Helper (Plugin)
+- PROCESS-NAME,Antigravity Helper (Renderer)
 - PROCESS-NAME,Claude
 - PROCESS-NAME,Claude Helper
 - PROCESS-NAME,Google Drive
