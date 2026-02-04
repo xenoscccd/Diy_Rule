@@ -7,7 +7,6 @@ payload:
 - DOMAIN-KEYWORD,huobi
 - DOMAIN-KEYWORD,metamask
 - DOMAIN-KEYWORD,moonpay
-- DOMAIN-KEYWORD,moonshot
 - DOMAIN-KEYWORD,okx
 - DOMAIN-SUFFIX,1inch.io
 - DOMAIN-SUFFIX,1ml.com
@@ -218,7 +217,6 @@ payload:
 - DOMAIN-SUFFIX,mmt.finance
 - DOMAIN-SUFFIX,moonpay.com
 - DOMAIN-SUFFIX,moonpaycloud.com
-- DOMAIN-SUFFIX,moonshot.money
 - DOMAIN-SUFFIX,myetherwallet.com
 - DOMAIN-SUFFIX,nansen.ai
 - DOMAIN-SUFFIX,naviprotocol.io
