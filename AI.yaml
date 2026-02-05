@@ -20,6 +20,7 @@ payload:
 - DOMAIN-KEYWORD,edgeassetservice
 - DOMAIN-KEYWORD,generativelanguage
 - DOMAIN-KEYWORD,gmail
+- DOMAIN-KEYWORD,goog
 - DOMAIN-KEYWORD,google
 - DOMAIN-KEYWORD,grok
 - DOMAIN-KEYWORD,openai
@@ -98,6 +99,7 @@ payload:
 - DOMAIN-SUFFIX,ewlmaakam.staging-bing-int.com
 - DOMAIN-SUFFIX,facebook.net
 - DOMAIN-SUFFIX,featuregates.org
+- DOMAIN-SUFFIX,fp-us-tmobile.rcs.telephony.goog
 - DOMAIN-SUFFIX,g.co
 - DOMAIN-SUFFIX,gemini.google.com
 - DOMAIN-SUFFIX,generativeai.google
