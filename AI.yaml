@@ -10,6 +10,7 @@ payload:
 - DOMAIN,alt8-mtalk.google.com
 - DOMAIN,makersuite.google.com
 - DOMAIN,mtalk.google.com
+- DOMAIN-KEYWORD,anthropic
 - DOMAIN-KEYWORD,antigravity
 - DOMAIN-KEYWORD,bing
 - DOMAIN-KEYWORD,chatgpt
@@ -28,6 +29,7 @@ payload:
 - DOMAIN-SUFFIX,265.com
 - DOMAIN-SUFFIX,2mdn.net
 - DOMAIN-SUFFIX,a.config.skype.com
+- DOMAIN-SUFFIX,a.nel.cloudflare.com
 - DOMAIN-SUFFIX,ai.google
 - DOMAIN-SUFFIX,ai.google.dev
 - DOMAIN-SUFFIX,aistudio.google.com
@@ -78,6 +80,8 @@ payload:
 - DOMAIN-SUFFIX,chinacloudapp.cn
 - DOMAIN-SUFFIX,cjfdbemmaeeohgibnhdhlakiahifjjcf
 - DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN-SUFFIX,clickserve.dartsearch.net
 - DOMAIN-SUFFIX,client-api.arkoselabs.com
 - DOMAIN-SUFFIX,clients6.google.com
@@ -144,6 +148,8 @@ payload:
 - DOMAIN-SUFFIX,mtalk.google.com
 - DOMAIN-SUFFIX,mw1.google.com
 - DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
+- DOMAIN-SUFFIX,oaistatic.com
+- DOMAIN-SUFFIX,oaiusercontent.com
 - DOMAIN-SUFFIX,ocsp.pki.goog
 - DOMAIN-SUFFIX,onenote
 - DOMAIN-SUFFIX,openai.com
@@ -175,6 +181,7 @@ payload:
 - DOMAIN-SUFFIX,snrproxync.binginternal.com
 - DOMAIN-SUFFIX,snrproxysc.binginternal.com
 - DOMAIN-SUFFIX,snrproxywest.binginternal.com
+- DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 - DOMAIN-SUFFIX,ssl.kaptcha.com
