@@ -17,6 +17,7 @@ payload:
 - DOMAIN-KEYWORD,claude
 - DOMAIN-KEYWORD,colab
 - DOMAIN-KEYWORD,copilot
+- DOMAIN-KEYWORD,datadoghq
 - DOMAIN-KEYWORD,developerprofiles
 - DOMAIN-KEYWORD,edgeassetservice
 - DOMAIN-KEYWORD,generativelanguage
@@ -64,6 +65,7 @@ payload:
 - DOMAIN-SUFFIX,bingapis.com
 - DOMAIN-SUFFIX,bingstatic.com
 - DOMAIN-SUFFIX,bngpiglbalmenaabohcooocpnljgfemj
+- DOMAIN-SUFFIX,browser-intake-datadoghq.com
 - DOMAIN-SUFFIX,c.gle
 - DOMAIN-SUFFIX,cache.pack.google.com
 - DOMAIN-SUFFIX,cbsnews.com
