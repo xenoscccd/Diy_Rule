@@ -51,9 +51,12 @@ payload:
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,antigravity-unleash.goog
 - DOMAIN-SUFFIX,antigravity.google
+- DOMAIN-SUFFIX,api.github.com
+- DOMAIN-SUFFIX,api.githubcopilot.com
 - DOMAIN-SUFFIX,apis.google.com
 - DOMAIN-SUFFIX,app-measurement.com
 - DOMAIN-SUFFIX,app-measurement.net
+- DOMAIN-SUFFIX,applicationinsights.azure.com
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN-SUFFIX,azureedge.net
 - DOMAIN-SUFFIX,azurewebsites.net
@@ -112,6 +115,9 @@ payload:
 - DOMAIN-SUFFIX,generativeai.google
 - DOMAIN-SUFFIX,generativelanguage.googleapis.com
 - DOMAIN-SUFFIX,ggpht.com
+- DOMAIN-SUFFIX,github.gallery.vsassets.io
+- DOMAIN-SUFFIX,github.gallerycdn.vsassets.io
+- DOMAIN-SUFFIX,githubcopilot.com
 - DOMAIN-SUFFIX,goo.gl
 - DOMAIN-SUFFIX,googleapis.cn
 - DOMAIN-SUFFIX,googleapis.com
@@ -248,6 +254,8 @@ payload:
 - PROCESS-NAME,Antigravity Helper (Renderer)
 - PROCESS-NAME,Claude
 - PROCESS-NAME,Claude Helper
+- PROCESS-NAME,Code Helper
+- PROCESS-NAME,Code Helper (Plugin)
 - PROCESS-NAME,Google Drive
 - PROCESS-NAME,LM Studio
 - PROCESS-NAME,grok
