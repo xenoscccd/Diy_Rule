@@ -31,6 +31,7 @@ payload:
 - DOMAIN-SUFFIX,2mdn.net
 - DOMAIN-SUFFIX,a.config.skype.com
 - DOMAIN-SUFFIX,a.nel.cloudflare.com
+- DOMAIN-SUFFIX,ab.chatgpt.com
 - DOMAIN-SUFFIX,ai.google
 - DOMAIN-SUFFIX,ai.google.dev
 - DOMAIN-SUFFIX,aistudio.google.com
