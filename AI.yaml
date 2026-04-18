@@ -255,6 +255,7 @@ payload:
 - PROCESS-NAME,Antigravity Helper (Renderer)
 - PROCESS-NAME,Claude
 - PROCESS-NAME,Claude Helper
+- PROCESS-NAME,Claude Helper (Renderer)
 - PROCESS-NAME,Code Helper
 - PROCESS-NAME,Code Helper (Plugin)
 - PROCESS-NAME,Google Drive
